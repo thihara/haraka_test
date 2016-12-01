@@ -1,0 +1,10 @@
+{
+  "name": "haraka_local",
+  "description": "An SMTP Server",
+  "version": "0.0.1",
+  "dependencies": {
+    "aws-sdk": "^2.6.4",
+    "pg": "^6.1.0",
+    "stream": "0.0.2"
+  }
+}
